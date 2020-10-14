@@ -1,1 +1,0 @@
-# inflearn_jpa_practice1
